@@ -1,7 +1,4 @@
-<!-- Banner Image -->
-<p align="center">
-  <img src="C:\Users\vinee\OneDrive\Pictures\Screenshots\Screenshot 2025-05-10 183018.png" alt="VoXka Logo" width="80%" />
-</p>
+
 
 <h1 align="center">🎙️ VoXka - Kannada Text-to-Speech (TTS) System</h1>
 <p align="center">
@@ -41,7 +38,7 @@
 ## 🖥️ Demo UI (Streamlit Preview)
 
 <p align="center">
-  <img src="assets/voxka_ui.png" alt="VoXka Streamlit UI" width="90%" />
+  <img src="Screenshot 2025-05-10 194326.png" alt="VoXka Streamlit UI" width="90%" />
 </p>
 
 ---
