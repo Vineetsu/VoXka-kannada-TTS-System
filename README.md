@@ -53,7 +53,7 @@
 - **TTS Engines:** Parler TTS / Indic TTS
 - **Audio:** torchaudio, soundfile
 - **Emotion Detection:** SERab Benchmark
-- **Utilities:** NumPy, os, argparse, pathlib
+- **Utilities:** NumPy, os
 
 ---
 
