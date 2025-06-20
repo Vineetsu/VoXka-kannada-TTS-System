@@ -44,7 +44,7 @@
 ---
 
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -55,7 +55,7 @@
 - **Emotion Detection:** SERab Benchmark
 - **Utilities:** NumPy, os
 
----
+
 
 
 
