@@ -24,14 +24,38 @@
 
 ## 🚀 Key Features
 
-| 🔹 Feature                          | 💡 Description                                                                 |
-|------------------------------------|--------------------------------------------------------------------------------|
-| 🧠 Neural TTS Engine                | Powered by Parler TTS / Indic TTS for lifelike Kannada speech                 |
-| 🗣️ Emotion-aware Speech            | Add `happy`, `sad`, `angry`, or `neutral` tones using SERab model             |
-| 🌐 Unicode Kannada Input            | Accepts standard Kannada script text                                          |
-| 💻 Streamlit UI                     | Clean and interactive frontend for easy access                                |
-| 🔊 Output as `.wav` or `.mp3`       | Save or play speech audio directly                                            |
-| ⚙️ CLI and Python APIs              | Easily script TTS with Python or command-line                                 |
+
+🧠 Neural TTS Engine
+Uses advanced models like Parler TTS and Indic TTS to generate lifelike Kannada speech.
+
+🗣️ Emotion-aware Speech
+Integrates with the SERab model to support expressive tones such as happy, sad, angry, and neutral.
+
+🌐 Unicode Kannada Input
+Fully supports native Kannada script input for easy typing and pronunciation.
+
+🗨️ Custom Voice Prompts
+Supports personalized voice scenarios like "Anu speaks in a professional tone", "Old man with a wavering voice", or "Ram tells a story".
+
+🌍 Multilingual Support
+Built on Indic TTS, it supports 13+ Indian languages, including Hindi, Telugu, Marathi, and more.
+
+🔠 Text Normalization
+Automatically filters out special characters and unnecessary punctuation to maintain smooth pronunciation.
+
+🔢 Smart Number Handling
+Accurately reads numbers such as dates, prices, and quantities in natural Kannada speech.
+
+🧔‍♂️ Accent & Style Variants
+Experiments with different speaker profiles and speaking styles for diverse applications.
+
+💻 Streamlit UI
+Minimalistic and user-friendly frontend to run everything from the browser.
+
+🔊 Audio Output (.wav / .mp3)
+Save the generated speech in both .wav and .mp3 formats or play it directly in the browser.
+
+
 
 ---
 
